@@ -1,0 +1,14 @@
+just grabbing with web pages.
+we can make things with like bots.
+it's quite useful.
+it's easy to set up.
+dragging and dropping, filling in the button, grabbing data, reading the entire page source code, etc.
+
+
+========================tutorial 1========================
+the webdriver is downloaded from the given website in the file
+the webdriver is placed in the C:\Program Files (x86)
+the PATH variable is declared in the file where we use selenium
+we import the webdriver from selenium
+if we want to open a web page and interact with the browser, we need to import the webdriver.
+we open a website like driver.get(url)
