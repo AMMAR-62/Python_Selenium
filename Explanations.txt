@@ -6,18 +6,20 @@ dragging and dropping, filling in the button, grabbing data, reading the entire 
 
 
 ========================tutorial 1========================
-the webdriver is downloaded from the given website in the file
-the webdriver is placed in the C:\Program Files (x86)
-the PATH variable is declared in the file where we use selenium
-we import the webdriver from selenium
-if we want to open a web page and interact with the browser, we need to import the webdriver.
-we open a website like driver.get(url)
+ - the webdriver is downloaded from the given website in the file
+ - the webdriver is placed in the C:\Program Files (x86)
+ - the PATH variable is declared in the file where we use selenium
+ - we import the webdriver from selenium
+ - if we want to open a web page and interact with the browser, we need to import the webdriver.
+ - we open a website like driver.get(url)
 
 ========================tutorial 2========================
-here we entered something in the search box and got the elements we wanted on that search page.
-from selenium the import packages we use are support, common which are in webdriver
-more details are given in the code.
-the expected conditions module contains different conditions which can be checked if they exist
-send_keys is the important method for every element where we can type some keys and from the keys module we can access some important keys.
-we can find_element_by_... in any element we want and it returns the list of element that we want.
-then we access the text in the element using element.text and if some exceptions come, we simply quit the driver
+ - here we entered something in the search box and got the elements we wanted on that search page.
+ - from selenium the import packages we use are support, common which are in webdriver
+ - more details are given in the code.
+ - the expected conditions module contains different conditions which can be checked if they exist
+ - send_keys is the important method for every element where we can type some keys and from the keys module we can access some important keys.
+ - we can find_element_by_... in any element we want and it returns the list of element that we want.
+ - then we access the text in the element using element.text and if some exceptions come, we simply quit the driver
+
+========================tutorial 3========================
