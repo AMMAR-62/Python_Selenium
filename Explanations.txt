@@ -23,3 +23,11 @@ dragging and dropping, filling in the button, grabbing data, reading the entire 
  - then we access the text in the element using element.text and if some exceptions come, we simply quit the driver
 
 ========================tutorial 3========================
+ - here we do the back and forth of pages and we just move forward and backwards using links and clicking on links.
+ - we first pick up the link using the find_element_by_link_text and then click on it using .click().
+ - we also await for the changes to occur using WebDriverWait and expected_conditions module and By constant in the commons module.
+ - we sleep in between while doing this so that the conditions are worth watching.
+ - we also use the delay where it waits for the change for that maximum time to take place.
+ - we use driver.forward() and driver.back() to navigate in the stack of pages. 
+
+========================tutorial 4========================
