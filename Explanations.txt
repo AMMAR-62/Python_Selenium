@@ -31,3 +31,11 @@ dragging and dropping, filling in the button, grabbing data, reading the entire 
  - we use driver.forward() and driver.back() to navigate in the stack of pages. 
 
 ========================tutorial 4========================
+action chains - allows us to do all the different actions.
+a list of them is provided in the documentations of selenium.
+action chains can be used to perform actions in a loop
+intially we get the cookie element from the website and make a predefined click action on the element.
+we also get the count of the cookie for checking if we can upgrade the item.
+we also get the item element to click on it when the value is less than or equal to count.
+we can perform different actions and make action chains.
+we do some text manipulation for the numbers in the strings.
