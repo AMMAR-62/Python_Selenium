@@ -39,3 +39,7 @@ we also get the count of the cookie for checking if we can upgrade the item.
 we also get the item element to click on it when the value is less than or equal to count.
 we can perform different actions and make action chains.
 we do some text manipulation for the numbers in the strings.
+
+========================tutorial 5========================
+we have four files, main, element, locator, page.
+we separate this for the object oriented design principles so that we can divide the problems and conquer them each individually.
